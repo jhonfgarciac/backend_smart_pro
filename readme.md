@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Proyectos inteligentes
+## Smart Pro
 
 Software que permite a las empresas del sector de la construcción tener el control de sus obras, desde el momento en que se realiza el presupuesto hasta que se finaliza la obra. Con base en un análisis de los procesos y las necesidades que actualmente presentan las pequeñas empresas de construcción, desarrollaremos una solución que facilite el control de las obras en tiempo real y de esa manera mitigar el impacto de los reprocesos, derivados de un mal presupuesto.
